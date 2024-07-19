@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Hicking Shoes",
+      "description": "Discover the perfect pair of shoes to suit every occasion and style with our extensive collection. From sophisticated dress shoes to casual sneakers, our selection combines comfort, durability, and fashion to meet your footwear needs.",
+      "price": 500,
+      "image": "images/s1.png"
+    },
+    {
+      "name": "White Sneakers",
+      "description": "Classic white sneakers that offer timeless style and versatility. Perfect for both casual and semi-formal outfits, these sneakers are designed for all-day comfort with cushioned soles and breathable materials.",
+      "price": 1000,
+      "image": "images/s2.png"
+    },
+    {
+      "name": "Woman Sandal",
+      "description": "Elegant women's sandals crafted for comfort and style. Featuring soft straps and cushioned footbeds, these sandals are perfect for both casual outings and dressier occasions.",
+      "price": 1500,
+      "image": "images/s3.png"
+    },
+    {
+      "name": "Outdoor Running Shoes",
+      "description": "Engineered for performance, these outdoor running shoes provide superior grip and support on various terrains. Designed for avid runners, they feature breathable materials and shock-absorbing soles.",
+      "price": 2000,
+      "image": "images/s4.png"
+    },
+    {
+      "name": "Sandal",
+      "description": "Stylish and comfortable sandals that are perfect for warm weather. With adjustable straps and cushioned soles, these sandals offer both support and flexibility for everyday wear.",
+      "price": 1000,
+      "image": "images/s5.png"
+    },
+    {
+      "name": "Canvas Shoes",
+      "description": "Durable and trendy canvas shoes that offer a casual yet fashionable look. Ideal for everyday wear, these shoes feature a sturdy canvas upper and flexible soles for all-day comfort.",
+      "price": 3000,
+      "image": "images/s6.png"
+    },
+    {
+      "name": "Home Chappal",
+      "description": "Cozy and comfortable home chappals designed for indoor relaxation. Made with soft materials and cushioned footbeds, these chappals provide ultimate comfort for your feet.",
+      "price": 2500,
+      "image": "images/s7.png"
+    },
+    {
+      "name": "Running Sneakers",
+      "description": "High-performance running sneakers that offer excellent support and cushioning. Perfect for long runs or intense workouts, these sneakers feature breathable materials and advanced shock absorption.",
+      "price": 1200,
+      "image": "images/s8.png"
+    },
+    {
+      "name": "White Sneakers",
+      "description": "Fresh and clean white sneakers that are versatile and stylish. Designed for comfort with padded insoles and a sleek design, these sneakers are ideal for everyday use.",
+      "price": 3500,
+      "image": "images/s9.png"
+    },
+    {
+      "name": "Walking Shoes",
+      "description": "Comfortable walking shoes designed for daily use. Featuring supportive arches and cushioned soles, these shoes are perfect for long walks or casual outings.",
+      "price": 2300,
+      "image": "images/s10.png"
+    },
+    {
+      "name": "Running Sneakers",
+      "description": "Durable running sneakers with enhanced cushioning and support. Ideal for high-impact activities, these sneakers are designed to provide stability and comfort during your runs.",
+      "price": 4500,
+      "image": "images/s11.png"
+    },
+    {
+      "name": "Sports Shoes",
+      "description": "Versatile sports shoes that offer excellent performance for various activities. Equipped with durable outsoles and breathable uppers, these shoes provide support and comfort for athletic use.",
+      "price": 2300,
+      "image": "images/s12.png"
+    },
+    {
+      "name": "Sneakers",
+      "description": "Trendy and comfortable sneakers designed for casual wear. With a modern look and cushioned soles, these sneakers are perfect for everyday activities and adding style to your outfit.",
+      "price": 1000,
+      "image": "images/s15.jpg"
+    },
+    {
+      "name": "Woman Chappal",
+      "description": "Chic and comfortable chappals for women. Made with soft materials and stylish designs, these chappals are perfect for both casual and semi-formal occasions.",
+      "price": 1500,
+      "image": "images/s13.png"
+    },
+    {
+      "name": "Stylish Chappal",
+      "description": "Elegant chappals with a modern design, ideal for adding a touch of sophistication to your wardrobe. Featuring comfortable footbeds and adjustable straps, these chappals offer both style and comfort.",
+      "price": 1000,
+      "image": "images/s14.png"
+    }
+]
